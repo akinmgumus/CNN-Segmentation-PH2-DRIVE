@@ -1,0 +1,22 @@
+# Datasets
+data/
+PH2*/
+DRIVE*/
+
+# Weights and outputs
+*.pth
+*.pt
+runs/
+plots/
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
